@@ -1,10 +1,4 @@
 
-
-
-
- /* mmmmm */
-
-
  body{
     background-color: #EEEEEE;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -13,8 +7,6 @@
     color: black;
     position: relative;
     text-align: center;
-    
-
 }
 
 header {
@@ -67,8 +59,6 @@ to {
 background-position: 20vw;
 }
 } 
-
-
 
 nav ul li a :focus{
     background-color: blue;

@@ -8,7 +8,6 @@
     position: relative;
     text-align: center;
 }
-
 header {
     background-color: #FEFBF6;
     padding: 5px ;
@@ -48,9 +47,6 @@ nav ul li a {
 
 nav ul li a:hover, nav ul li a:focus {
     background-image: linear-gradient(90deg,
-    #3498db 0%,
-    #e74c3c 50%,
-    #f1c407 75%,
     #3498db 100%);
 animation: slidernbw 5s linear infinite;
 }
@@ -88,7 +84,6 @@ footer{
 p_footer{
     font-size: 10px;
     
-    
 }
 
 .title1{
@@ -99,9 +94,6 @@ p_footer{
 }
 .title1:hover{
      background-image: linear-gradient(90deg,
-    #3498db 0%,
-    #e74c3c 50%,
-    #f1c407 75%,
     #3498db 100%);
 animation: slidernbw 5s linear infinite;
 }
@@ -209,9 +201,6 @@ main{
 }
 .product-card button:hover{
     background-image: linear-gradient(90deg,
-    #3498db 0%,
-    #e74c3c 50%,
-    #f1c407 75%,
     #3498db 100%);
 animation: slidernbw 5s linear infinite;
 }
@@ -253,9 +242,6 @@ background-position: 20vw;
 }
 .product-details button:hover{
     background-image: linear-gradient(90deg,
-                                    #3498db 0%,
-                                    #e74c3c 50%,
-                                    #f1c407 75%,
                                     #3498db 100%);
     animation: slidernbw 5s linear infinite;
 }
@@ -292,9 +278,7 @@ background-position: 20vw;
 }
 .all-products button:hover{
     background-image: linear-gradient(90deg,
-    #3498db 0%,
-    #e74c3c 50%,
-    #f1c407 75%,
+   
     #3498db 100%);
 animation: slidernbw 5s linear infinite;
 }
@@ -303,7 +287,6 @@ to {
 background-position: 20vw;
 }
 }
-
 
 .product-reviews{
     display: flex;
@@ -327,65 +310,7 @@ background-position: 20vw;
     border-radius: 50%;
     margin-bottom: 5px;
 }
-
 .comment{
     font-size: 16px;
     line-height: 1.4;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-footer {
-    background-color: rgb(188, 29, 29);
-    text-align: center;
-    margin-top: 900px;
-    position: absolute;
-    width: 100%;
 }
